@@ -1,0 +1,25 @@
+.container{
+    height: 500px;
+    background: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+.item1{
+    flex: 1;
+    height: 400px;
+    /* width: 30%; */
+    background: red;
+
+}
+.item2{
+    flex: 1;
+    height: 400px;
+    /* width: 30%; */
+    background: blue;
+}
+.item3{
+    flex: 1;
+    height: 400px;
+    /* width: 30%; */
+    background: black;
+}

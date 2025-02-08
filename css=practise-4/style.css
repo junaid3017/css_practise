@@ -1,0 +1,47 @@
+/* 
+
+#outer{
+    font-size: 25px;
+    text-align: center;
+}
+
+#inner{
+    font-size: 10px
+    ;
+} */
+
+/* div{
+    text-align: center;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+
+div{
+    padding: 2px 0px 0px 4px;
+    margin-top: 40px;
+    margin-left: 20px;
+    background-color: blue;
+}
+.amazon{
+    left: 0px;
+}
+.account{
+    margin-left: 80px;
+    margin-right: 20px;
+}
+.mycart{
+    margin-left: 80px;
+    margin-right: 20px;
+}
+.contactus{
+    margin-left: 80px;
+    margin-right: 20px;
+}
+.searchandbutton{
+    /* margin-left: 80px;
+    margin-right: 20px; */
+    right: 0px;
+}
