@@ -1,0 +1,17 @@
+.container{
+    
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly
+    
+}
+
+li{
+    background-color: aqua;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
