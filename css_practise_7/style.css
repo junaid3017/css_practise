@@ -1,0 +1,13 @@
+.outer{
+    background-color: brown;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
